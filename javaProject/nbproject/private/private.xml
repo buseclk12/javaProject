@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/buse/Desktop/javaProject/src/Has_A/Customer.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/SystemClasses/DrugSys.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/GUI/PharmacyFrame.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Is_A/NotCoveredByInsurance.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Is_A/DrugTakenByPrescription.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Is_A/Product.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/GUI/PurchaseFrame.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/javaproject/Main.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Has_A/Prescription.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/GUI/SaleFrame.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Interface/Bill.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Is_A/OverTheCounter.java</file>
+            <file>file:/Users/buse/Desktop/javaProject/src/Is_A/CoveredByInsurance.java</file>
+        </group>
+    </open-files>
+</project-private>
